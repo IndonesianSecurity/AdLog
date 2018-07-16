@@ -28,3 +28,5 @@ python adlog -u example.com --path /data
 ```
 <b>Note: </b> When you specify an extension using <b>--type</b> option, Adlog includes paths of that extension as well as paths with no extensions like <b>/admin/login</b>
 
+Video Tutorial
+https://youtu.be/s3SRFKJPHXo
